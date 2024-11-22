@@ -2,7 +2,7 @@ This terraform projects creates
  RDS databse with mysql 5.7 
  #EC2 instance with wordpress pre installed and configured 
  ----------------------------------------------------------------------
- AWS FREE TRIAL friendly
+ AWS FREE TRIAL friendly -- test
  ----------------------------------------------------------------------
  Change database entries ,regions and other variable in terraform.tfvars file
  And Database password in user.tfvars file
